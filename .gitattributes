@@ -1,0 +1,20 @@
+# Enforce LF line endings for all text files
+* text=auto eol=lf
+
+# Windows batch scripts should keep CRLF
+*.bat text eol=crlf
+
+# PowerShell scripts should keep CRLF
+*.ps1 text eol=crlf
+
+# Shell scripts should always use LF (Linux/macOS)
+*.sh text eol=lf
+
+# Markdown and documentation files
+*.md text eol=lf
+
+# JSON files
+*.json text eol=lf
+
+# Python source code
+*.py text eol=lf
