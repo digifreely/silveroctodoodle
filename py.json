@@ -1,0 +1,1230 @@
+{
+  "Palmistry": {
+    "Life & Vitality": {
+      "lifeLineLength": {
+      "Strong": [
+        "How can strong physical vitality improve a person's daily life?",
+        "In what way does lasting energy affect a person's ability to enjoy life?",
+        "How might resilience in health contribute to overall happiness?",
+        "How can good stamina help in managing responsibilities?",
+        "In what way does robust health shape a person's confidence?",
+        "How can long-lasting vitality influence career success?",
+        "How does strong endurance impact relationships?",
+        "In what way does steady health support emotional stability?",
+        "How can reliable physical strength encourage personal growth?",
+        "How might consistent well-being extend a person’s life span?"
+      ],
+      "Moderate": [
+        "How can average energy levels shape daily routines?",
+        "In what way does balanced health affect productivity?",
+        "How might moderate stamina influence life satisfaction?",
+        "How does managing ups and downs in health impact mindset?",
+        "In what way does steady but limited energy affect goals?",
+        "How might average resilience shape emotional outlook?",
+        "How can moderate vitality influence social connections?",
+        "How does balanced well-being support personal stability?",
+        "In what way can a moderate lifestyle extend comfort in life?",
+        "How might an even flow of energy impact long-term growth?"
+      ],
+      "Weak": [
+        "How can low vitality influence a person's daily activities?",
+        "In what way does fragile health affect confidence?",
+        "How might limited stamina reduce opportunities in life?",
+        "How can frequent fatigue impact relationships?",
+        "In what way does poor endurance affect career progress?",
+        "How might weak health influence emotional balance?",
+        "How can vulnerability in vitality create challenges in growth?",
+        "How does low energy affect long-term stability?",
+        "In what way can fragile strength shorten life experiences?",
+        "How might recurring health struggles shape outlook on life?"
+      ]
+      },
+"lifeLineDepth": {
+  "Strong": [
+    "How can inner strength improve a person's outlook on life?",
+    "In what way does deep resilience help during challenges?",
+    "How might strong vitality affect emotional balance?",
+    "How can powerful inner energy support long-term health?",
+    "In what way does a solid foundation of strength inspire confidence?",
+    "How might strong resilience protect against stress?",
+    "How can enduring vitality encourage personal growth?",
+    "In what way does deep inner stability improve relationships?",
+    "How might strong emotional grounding help in decision-making?",
+    "How can deep reserves of energy extend a person's life journey?"
+  ],
+  "Moderate": [
+    "How can balanced inner strength shape daily experiences?",
+    "In what way does moderate resilience affect handling stress?",
+    "How might average energy levels influence confidence?",
+    "How can steady but limited reserves impact career growth?",
+    "In what way does balanced vitality affect emotional outlook?",
+    "How might moderate grounding help in maintaining stability?",
+    "How can average resilience support relationships?",
+    "In what way does a balanced approach to challenges guide success?",
+    "How might moderate energy flow shape personal growth?",
+    "How can fair inner strength affect long-term well-being?"
+  ],
+  "Weak": [
+    "How can lack of inner strength affect daily life?",
+    "In what way does low resilience impact emotional balance?",
+    "How might fragile energy reduce confidence?",
+    "How can poor grounding affect the ability to handle stress?",
+    "In what way does weak vitality influence relationships?",
+    "How might low reserves of strength limit opportunities?",
+    "How can fragile resilience affect long-term goals?",
+    "In what way does weak inner stability create struggles in growth?",
+    "How might limited energy impact decision-making?",
+    "How can lack of deep vitality shorten life satisfaction?"
+  ]
+},
+"lifeLineBreaks": {
+  "Strong": [
+    "How can sudden life changes affect a person’s health?",
+    "In what way do major disruptions shape personal growth?",
+    "How might unexpected breaks in stability influence emotions?",
+    "How can strong interruptions create challenges in relationships?",
+    "In what way do sudden shifts affect career progress?",
+    "How might recurring disruptions impact confidence?",
+    "How can sharp breaks in life rhythm influence well-being?",
+    "In what way do strong challenges inspire resilience?",
+    "How might sudden setbacks shape long-term stability?",
+    "How can disruptive events affect overall life satisfaction?"
+  ],
+  "Moderate": [
+    "How can occasional breaks in routine affect daily life?",
+    "In what way do manageable disruptions influence confidence?",
+    "How might moderate interruptions shape emotional balance?",
+    "How can temporary setbacks affect career opportunities?",
+    "In what way do short pauses in stability affect relationships?",
+    "How might average disruptions encourage adaptability?",
+    "How can moderate breaks in life flow influence well-being?",
+    "In what way do smaller challenges guide personal growth?",
+    "How might periodic changes affect decision-making?",
+    "How can moderate life shifts shape future direction?"
+  ],
+  "Weak": [
+    "How can a steady life flow affect personal stability?",
+    "In what way does limited disruption support confidence?",
+    "How might smoother stability encourage well-being?",
+    "How can fewer interruptions improve relationships?",
+    "In what way does steady progress shape emotional outlook?",
+    "How might fewer setbacks enhance career growth?",
+    "How can limited challenges encourage peace of mind?",
+    "In what way does smooth continuity affect long-term plans?",
+    "How might fewer disruptions build resilience naturally?",
+    "How can a calm and steady flow increase life satisfaction?"
+  ]
+},
+ "forksAtEnd": {
+  "Strong": [
+    "How can having many choices late in life shape personal growth?",
+    "In what way do multiple paths at later stages affect stability?",
+    "How might expanded opportunities bring new experiences?",
+    "How can branching directions influence relationships over time?",
+    "In what way does variety at later stages affect emotional balance?",
+    "How might wide options increase life satisfaction?",
+    "How can diverse directions support long-term learning?",
+    "In what way does openness to many paths encourage resilience?",
+    "How might multiple opportunities affect career or retirement?",
+    "How can many life directions create a sense of fulfillment?"
+  ],
+  "Moderate": [
+    "How can a few key choices shape the later stages of life?",
+    "In what way do balanced options affect stability over time?",
+    "How might moderate branching bring new experiences?",
+    "How can some opportunities influence long-term relationships?",
+    "In what way does having limited paths affect emotional balance?",
+    "How might moderate options guide personal growth?",
+    "How can a balanced flow of opportunities create stability?",
+    "In what way do occasional choices influence resilience?",
+    "How might steady options affect future satisfaction?",
+    "How can a mix of choices shape well-being over time?"
+  ],
+  "Weak": [
+    "How can a single steady path influence later life stages?",
+    "In what way does limited choice create stability?",
+    "How might fewer options affect personal growth?",
+    "How can a straight path impact long-term relationships?",
+    "In what way does reduced variety influence emotional outlook?",
+    "How might limited branching affect career direction?",
+    "How can few opportunities shape life satisfaction?",
+    "In what way does a single focus encourage consistency?",
+    "How might limited paths affect future resilience?",
+    "How can a straightforward journey bring peace of mind?"
+  ]
+},
+"simianLine": {
+  "Strong": [
+    "How can intense focus influence a person’s success?",
+    "In what way does strong determination affect relationships?",
+    "How might powerful emotions shape daily decisions?",
+    "How can single-minded drive improve career growth?",
+    "In what way does deep concentration impact creativity?",
+    "How might emotional intensity create challenges in balance?",
+    "How can strong focus guide long-term goals?",
+    "In what way does determination affect resilience during struggles?",
+    "How might powerful commitment influence personal growth?",
+    "How can emotional strength shape overall life direction?"
+  ],
+  "Moderate": [
+    "How can balanced focus affect a person’s daily routine?",
+    "In what way does moderate determination shape progress?",
+    "How might steady emotions support relationships?",
+    "How can balanced drive influence career choices?",
+    "In what way does flexible concentration improve problem-solving?",
+    "How might average intensity support emotional stability?",
+    "How can moderate focus guide decision-making?",
+    "In what way does steady energy affect resilience?",
+    "How might balanced determination encourage personal growth?",
+    "How can moderate commitment shape future goals?"
+  ],
+  "Weak": [
+    "How can lack of focus affect personal success?",
+    "In what way does low determination shape daily struggles?",
+    "How might scattered emotions influence relationships?",
+    "How can weaker drive impact career progress?",
+    "In what way does limited focus affect creativity?",
+    "How might emotional softness reduce resilience?",
+    "How can lack of intensity slow personal growth?",
+    "In what way does weaker concentration influence decision-making?",
+    "How might reduced determination affect long-term goals?",
+    "How can low emotional intensity shape life satisfaction?"
+  ]
+},
+"mountSun": {
+  "Strong": [
+    "How can strong creativity improve a person’s life?",
+    "In what way does recognition boost confidence?",
+    "How might self-expression shape relationships?",
+    "How can joy in living affect emotional balance?",
+    "In what way does artistic ability enhance career success?",
+    "How might charisma open new opportunities?",
+    "How can optimism guide personal growth?",
+    "In what way does a love for beauty improve well-being?",
+    "How might natural charm strengthen social connections?",
+    "How can strong creativity bring lasting fulfillment?"
+  ],
+  "Moderate": [
+    "How can steady creativity influence personal satisfaction?",
+    "In what way does balanced recognition affect self-esteem?",
+    "How might moderate self-expression guide relationships?",
+    "How can stable joy improve daily routines?",
+    "In what way does average artistic sense shape career growth?",
+    "How might moderate charisma build social harmony?",
+    "How can steady optimism influence problem-solving?",
+    "In what way does balanced expression affect emotional health?",
+    "How might fair creativity guide personal progress?",
+    "How can moderate self-confidence create stability in life?"
+  ],
+  "Weak": [
+    "How can lack of creativity affect personal growth?",
+    "In what way does low recognition shape confidence?",
+    "How might weak self-expression reduce relationship strength?",
+    "How can limited joy affect overall well-being?",
+    "In what way does poor artistic sense limit opportunities?",
+    "How might low charisma create struggles in social life?",
+    "How can lack of optimism affect resilience?",
+    "In what way does weak expression reduce happiness?",
+    "How might low creativity impact long-term goals?",
+    "How can limited recognition influence life satisfaction?"
+  ]
+},
+"mountMoon": {
+  "Strong": [
+    "How can strong imagination shape a person’s outlook on life?",
+    "In what way does deep intuition guide decision-making?",
+    "How might emotional sensitivity strengthen relationships?",
+    "How can creativity from within improve personal growth?",
+    "In what way does strong empathy affect social connections?",
+    "How might rich imagination influence problem-solving?",
+    "How can deep emotions inspire resilience?",
+    "In what way does intuition create confidence in choices?",
+    "How might strong sensitivity guide life direction?",
+    "How can powerful imagination bring joy and fulfillment?"
+  ],
+  "Moderate": [
+    "How can balanced imagination influence daily life?",
+    "In what way does steady intuition affect personal stability?",
+    "How might moderate emotions support relationships?",
+    "How can average creativity shape career opportunities?",
+    "In what way does fair empathy build social harmony?",
+    "How might moderate sensitivity guide personal growth?",
+    "How can balanced imagination support resilience?",
+    "In what way does average intuition shape decision-making?",
+    "How might steady emotions affect confidence?",
+    "How can fair creativity improve overall well-being?"
+  ],
+  "Weak": [
+    "How can limited imagination affect personal satisfaction?",
+    "In what way does weak intuition shape decisions?",
+    "How might low sensitivity impact relationships?",
+    "How can lack of emotional depth affect resilience?",
+    "In what way does poor creativity reduce opportunities?",
+    "How might weak empathy affect social life?",
+    "How can lack of imagination limit personal growth?",
+    "In what way does low intuition create uncertainty?",
+    "How might weak emotions reduce confidence?",
+    "How can limited sensitivity affect long-term happiness?"
+  ]
+},
+"mountMars": {
+  "Strong": [
+    "How can strong courage shape a person’s success?",
+    "In what way does resilience help overcome struggles?",
+    "How might persistence influence long-term goals?",
+    "How can inner strength build confidence in daily life?",
+    "In what way does bravery affect relationships?",
+    "How might determination guide career progress?",
+    "How can strong willpower improve emotional balance?",
+    "In what way does resilience protect against setbacks?",
+    "How might steady courage inspire others?",
+    "How can fearless determination bring fulfillment?"
+  ],
+  "Moderate": [
+    "How can balanced courage shape personal growth?",
+    "In what way does steady resilience guide daily challenges?",
+    "How might fair persistence influence success?",
+    "How can moderate strength improve stability?",
+    "In what way does average bravery affect confidence?",
+    "How might steady determination guide relationships?",
+    "How can moderate courage support emotional well-being?",
+    "In what way does fair resilience help recovery after setbacks?",
+    "How might average willpower guide long-term decisions?",
+    "How can balanced strength influence overall happiness?"
+  ],
+  "Weak": [
+    "How can lack of courage affect personal growth?",
+    "In what way does weak resilience shape confidence?",
+    "How might poor persistence limit success?",
+    "How can low strength affect relationships?",
+    "In what way does fear reduce career progress?",
+    "How might weak determination affect daily challenges?",
+    "How can lack of willpower weaken emotional balance?",
+    "In what way does fragile resilience create difficulties?",
+    "How might avoidance of conflict limit growth?",
+    "How can weak courage reduce overall life satisfaction?"
+  ]
+},
+"mountSaturn": {
+  "Strong": [
+    "How can strong discipline shape a person’s success?",
+    "In what way does deep wisdom guide decision-making?",
+    "How might patience improve relationships?",
+    "How can responsibility build long-term stability?",
+    "In what way does maturity affect personal growth?",
+    "How might steady focus on duty influence career progress?",
+    "How can strong self-control improve emotional balance?",
+    "In what way does wisdom help overcome struggles?",
+    "How might responsibility inspire trust in others?",
+    "How can discipline create a lasting sense of fulfillment?"
+  ],
+  "Moderate": [
+    "How can balanced discipline shape daily routines?",
+    "In what way does steady patience improve problem-solving?",
+    "How might moderate responsibility affect relationships?",
+    "How can cautious decisions build stability?",
+    "In what way does average wisdom guide personal choices?",
+    "How might fair discipline influence career direction?",
+    "How can moderate patience support emotional well-being?",
+    "In what way does responsibility create balance in life?",
+    "How might steady self-control shape personal growth?",
+    "How can balanced maturity guide long-term plans?"
+  ],
+  "Weak": [
+    "How can lack of discipline affect personal progress?",
+    "In what way does impatience weaken relationships?",
+    "How might poor responsibility reduce stability?",
+    "How can weak wisdom affect decision-making?",
+    "In what way does lack of maturity limit growth?",
+    "How might low patience affect career opportunities?",
+    "How can poor discipline harm emotional balance?",
+    "In what way does avoiding responsibility create struggles?",
+    "How might lack of self-control affect confidence?",
+    "How can weak discipline reduce long-term satisfaction?"
+  ]
+},
+ "mountVenus": {
+  "Strong": [
+    "How can strong passion influence personal relationships?",
+    "In what way does warmth create deeper connections?",
+    "How might vitality affect daily happiness?",
+    "How can affectionate nature inspire trust in others?",
+    "In what way does charm shape social opportunities?",
+    "How might strong attraction support lasting bonds?",
+    "How can enthusiasm for life improve personal growth?",
+    "In what way does deep affection nurture family ties?",
+    "How might vitality boost confidence in social life?",
+    "How can strong love energy create long-term fulfillment?"
+  ],
+  "Moderate": [
+    "How can balanced affection maintain healthy relationships?",
+    "In what way does steady vitality support daily routines?",
+    "How might moderate warmth improve friendships?",
+    "How can balanced passion create stability in love?",
+    "In what way does calm charm affect social connections?",
+    "How might fair attraction shape romantic opportunities?",
+    "How can steady affection support family harmony?",
+    "In what way does moderate vitality influence personal growth?",
+    "How might balanced warmth strengthen long-term bonds?",
+    "How can average love energy guide emotional well-being?"
+  ],
+  "Weak": [
+    "How can lack of passion affect relationships?",
+    "In what way does low warmth create distance in bonds?",
+    "How might weak vitality reduce daily joy?",
+    "How can poor affection affect trust with others?",
+    "In what way does lack of charm limit social life?",
+    "How might low attraction influence romantic opportunities?",
+    "How can weak love energy affect family harmony?",
+    "In what way does absence of passion slow personal growth?",
+    "How might low vitality affect emotional well-being?",
+    "How can weak warmth reduce long-term happiness?"
+  ]
+},
+"mountJupiter": {
+  "Strong": [
+    "How can strong ambition shape personal success?",
+    "In what way does leadership ability inspire others?",
+    "How might confidence affect career opportunities?",
+    "How can authority support decision-making in life?",
+    "In what way does optimism create new possibilities?",
+    "How might strong self-belief guide personal growth?",
+    "How can ambition influence long-term goals?",
+    "In what way does leadership strengthen group harmony?",
+    "How might confidence affect personal relationships?",
+    "How can a strong sense of purpose shape destiny?"
+  ],
+  "Moderate": [
+    "How can balanced ambition maintain steady progress?",
+    "In what way does moderate leadership improve teamwork?",
+    "How might average confidence affect social bonds?",
+    "How can balanced authority create fairness in decisions?",
+    "In what way does steady optimism improve well-being?",
+    "How might moderate self-belief support personal growth?",
+    "How can ambition in moderation build long-term stability?",
+    "In what way does fair leadership encourage trust?",
+    "How might balanced confidence support career choices?",
+    "How can measured optimism create harmony in life?"
+  ],
+  "Weak": [
+    "How can lack of ambition affect life direction?",
+    "In what way does weak leadership reduce influence?",
+    "How might low confidence block opportunities?",
+    "How can poor authority affect decision-making?",
+    "In what way does absence of optimism impact growth?",
+    "How might weak self-belief limit personal success?",
+    "How can lack of ambition delay progress in life?",
+    "In what way does weak leadership weaken group trust?",
+    "How might low confidence harm relationships?",
+    "How can poor self-direction reduce overall fulfillment?"
+  ]
+}
+	},
+    "Health & Risk": {
+   "mercuryHealthLine": {
+    "Strong": [
+      "How can strong health support daily activities?",
+      "In what way does good vitality improve mood?",
+      "How might strong energy levels extend life quality?",
+      "How can resilience protect against illness?",
+      "In what way does quick recovery aid confidence?",
+      "How might good immunity influence lifestyle choices?",
+      "How can strong health improve personal freedom?",
+      "In what way does vitality increase productivity?",
+      "How might resistance to stress shape mental balance?",
+      "How can overall wellness create long-term stability?"
+    ],
+    "Moderate": [
+      "How can moderate health maintain daily balance?",
+      "In what way does fair vitality support routine work?",
+      "How might average energy affect life pace?",
+      "How can steady resilience prevent small risks?",
+      "In what way does moderate recovery keep balance?",
+      "How might fair immunity influence habits?",
+      "How can health in moderation shape lifestyle?",
+      "In what way does balanced energy improve well-being?",
+      "How might average vitality support mental calm?",
+      "How can moderate health sustain steady growth?"
+    ],
+    "Weak": [
+      "How can weak health limit life activities?",
+      "In what way does poor vitality reduce energy?",
+      "How might low resilience increase illness risk?",
+      "How can weak immunity affect confidence?",
+      "In what way does slow recovery disrupt plans?",
+      "How might fragile health restrict freedom?",
+      "How can constant fatigue affect relationships?",
+      "In what way does weak energy block opportunities?",
+      "How might poor health increase stress levels?",
+      "How can reduced vitality limit long-term goals?"
+    ]
+  },
+"girdleOfVenus": {
+  "Strong": [
+    "How can strong sensitivity deepen emotional bonds?",
+    "In what way does heightened passion affect choices?",
+    "How might strong feelings inspire creativity?",
+    "How can emotional intensity shape relationships?",
+    "In what way does deep empathy influence connections?",
+    "How might strong desire fuel ambition?",
+    "How can passion improve self-expression?",
+    "In what way does strong emotional drive guide decisions?",
+    "How might heightened awareness enrich life experiences?",
+    "How can deep emotions create meaningful growth?"
+  ],
+  "Moderate": [
+    "How can moderate sensitivity keep emotions balanced?",
+    "In what way does steady passion shape relationships?",
+    "How might average feelings maintain stability?",
+    "How can moderate empathy support understanding?",
+    "In what way does balanced desire guide choices?",
+    "How might moderate emotions prevent extremes?",
+    "How can calm sensitivity improve self-control?",
+    "In what way does average awareness shape reactions?",
+    "How might balanced passion support steady growth?",
+    "How can moderate emotional drive build consistency?"
+  ],
+  "Weak": [
+    "How can weak sensitivity reduce emotional depth?",
+    "In what way does low passion affect relationships?",
+    "How might dull feelings limit creativity?",
+    "How can weak empathy block understanding?",
+    "In what way does reduced desire shape life direction?",
+    "How might shallow emotions weaken connections?",
+    "How can lack of sensitivity affect confidence?",
+    "In what way does low awareness create missed chances?",
+    "How might weak passion reduce motivation?",
+    "How can poor emotional drive limit personal growth?"
+  ]
+},
+"headLine": {
+  "Strong": [
+    "How can strong focus improve problem-solving?",
+    "In what way does sharp thinking shape decisions?",
+    "How might clear reasoning create success in life?",
+    "How can mental strength boost confidence?",
+    "In what way does strong memory enrich learning?",
+    "How might logical clarity guide long-term goals?",
+    "How can quick thinking improve daily choices?",
+    "In what way does balanced thought reduce mistakes?",
+    "How might strong intelligence open new opportunities?",
+    "How can mental discipline support personal growth?"
+  ],
+  "Moderate": [
+    "How can steady focus support everyday tasks?",
+    "In what way does average memory affect learning?",
+    "How might moderate reasoning bring balanced choices?",
+    "How can a fair level of logic guide life direction?",
+    "In what way does average mental energy shape success?",
+    "How might moderate clarity support relationships?",
+    "How can average thinking encourage patience?",
+    "In what way does balanced focus prevent extremes?",
+    "How might moderate intelligence create stable growth?",
+    "How can steady thought support problem-solving?"
+  ],
+  "Weak": [
+    "How can weak focus limit achievement?",
+    "In what way does poor reasoning affect decisions?",
+    "How might weak memory reduce confidence?",
+    "How can lack of clarity cause confusion?",
+    "In what way does low intelligence shape opportunities?",
+    "How might poor thinking create repeated mistakes?",
+    "How can weak discipline block progress?",
+    "In what way does scattered thought affect goals?",
+    "How might slow reasoning impact success?",
+    "How can weak mental energy reduce personal growth?"
+  ]
+},
+ "heartLine": {
+  "Strong": [
+    "How can strong emotions strengthen relationships?",
+    "In what way does deep compassion enrich life?",
+    "How might emotional warmth inspire trust in others?",
+    "How can resilience in feelings improve confidence?",
+    "In what way does strong care create harmony?",
+    "How might passion deepen personal connections?",
+    "How can emotional strength support long-term bonds?",
+    "In what way does strong love energy shape happiness?",
+    "How might kindness build stronger communities?",
+    "How can deep emotions lead to meaningful growth?"
+  ],
+  "Moderate": [
+    "How can balanced emotions support daily life?",
+    "In what way does steady affection shape trust?",
+    "How might moderate compassion create harmony?",
+    "How can balanced feelings prevent extremes?",
+    "In what way does average passion guide choices?",
+    "How might steady love bring stability in life?",
+    "How can fair emotional strength support well-being?",
+    "In what way does calm affection reduce stress?",
+    "How might moderate empathy shape relationships?",
+    "How can balanced emotions support consistent growth?"
+  ],
+  "Weak": [
+    "How can weak emotions limit relationships?",
+    "In what way does lack of compassion affect bonds?",
+    "How might low affection weaken trust?",
+    "How can poor emotional strength create insecurity?",
+    "In what way does weak passion reduce joy?",
+    "How might shallow feelings block deeper connections?",
+    "How can weak empathy affect understanding?",
+    "In what way does lack of kindness shape choices?",
+    "How might poor emotional balance create conflict?",
+    "How can weak love energy limit personal growth?"
+  ]
+},
+"intersectionLines": {
+  "Strong": [
+    "How can strong challenges build resilience?",
+    "In what way do sudden changes shape personal growth?",
+    "How might major disruptions lead to new opportunities?",
+    "How can overcoming obstacles increase confidence?",
+    "In what way does strong resistance shape determination?",
+    "How might big turning points guide life direction?",
+    "How can repeated struggles strengthen patience?",
+    "In what way do strong trials test character?",
+    "How might powerful challenges inspire transformation?",
+    "How can overcoming strong obstacles create lasting strength?"
+  ],
+  "Moderate": [
+    "How can moderate challenges keep life balanced?",
+    "In what way do steady obstacles encourage growth?",
+    "How might average disruptions improve adaptability?",
+    "How can moderate struggles shape perspective?",
+    "In what way does balanced resistance guide learning?",
+    "How might everyday challenges build steady strength?",
+    "How can moderate turning points create new chances?",
+    "In what way does fair difficulty improve patience?",
+    "How might balanced setbacks prevent overconfidence?",
+    "How can moderate obstacles help shape resilience?"
+  ],
+  "Weak": [
+    "How can weak challenges reduce personal growth?",
+    "In what way does lack of struggle affect resilience?",
+    "How might few disruptions limit adaptability?",
+    "How can absence of trials weaken determination?",
+    "In what way does low resistance slow maturity?",
+    "How might weak obstacles reduce problem-solving skills?",
+    "How can lack of turning points limit progress?",
+    "In what way does little struggle affect perspective?",
+    "How might weak challenges keep life untested?",
+    "How can minimal setbacks slow down inner strength?"
+  ]
+},
+"minorLines": {
+  "Strong": [
+    "How can small details create big changes in life?",
+    "In what way do hidden strengths shape resilience?",
+    "How might subtle influences improve decision-making?",
+    "How can unnoticed factors build quiet confidence?",
+    "In what way do small signals reveal inner growth?",
+    "How might hidden patterns shape opportunities?",
+    "How can small but strong traits create stability?",
+    "In what way do subtle habits guide long-term success?",
+    "How might quiet strengths support personal progress?",
+    "How can hidden details shape meaningful outcomes?"
+  ],
+  "Moderate": [
+    "How can moderate signals keep life balanced?",
+    "In what way do average details shape experiences?",
+    "How might steady hidden factors influence choices?",
+    "How can moderate subtlety guide everyday living?",
+    "In what way do small influences create steady growth?",
+    "How might unnoticed habits affect personal balance?",
+    "How can moderate hidden strengths provide stability?",
+    "In what way do subtle traits guide consistent progress?",
+    "How might fair signals prevent extremes?",
+    "How can moderate details shape dependable outcomes?"
+  ],
+  "Weak": [
+    "How can weak signals reduce self-awareness?",
+    "In what way does lack of subtlety affect growth?",
+    "How might missing details limit opportunities?",
+    "How can weak hidden strengths lower resilience?",
+    "In what way do faint influences weaken choices?",
+    "How might overlooked habits affect balance?",
+    "How can weak subtle traits reduce adaptability?",
+    "In what way does lack of hidden support slow progress?",
+    "How might weak small factors limit stability?",
+    "How can absence of subtle signals reduce life direction?"
+  ]
+}
+	},
+    "Stress / Accident Risk": {
+  "marsLine": {
+    "Strong": [
+      "How can strong resilience help in handling sudden challenges?",
+      "In what way does quick reaction reduce risks?",
+      "How might strong determination prevent accidents?",
+      "How can inner strength improve stress management?",
+      "In what way does confidence lower chances of mistakes?",
+      "How might strong focus protect during risky situations?",
+      "How can steady courage help avoid harm?",
+      "In what way does high energy shape response to stress?",
+      "How might strong willpower turn danger into safety?",
+      "How can strong mental toughness reduce accident risk?"
+    ],
+    "Moderate": [
+      "How can average resilience balance stress levels?",
+      "In what way does fair reaction affect safety?",
+      "How might moderate determination guide risky choices?",
+      "How can steady focus reduce small dangers?",
+      "In what way does balanced confidence handle pressure?",
+      "How might moderate energy influence accident risk?",
+      "How can fair courage provide stability in challenges?",
+      "In what way do average traits shape stress response?",
+      "How might moderate toughness support safe outcomes?",
+      "How can fair control reduce sudden mistakes?"
+    ],
+    "Weak": [
+      "How can weak resilience increase accident chances?",
+      "In what way does poor reaction affect safety?",
+      "How might low determination lead to risky choices?",
+      "How can weak focus raise stress levels?",
+      "In what way does lack of confidence create danger?",
+      "How might low energy reduce awareness in critical times?",
+      "How can weak courage increase harm in challenges?",
+      "In what way does fragile toughness affect stress control?",
+      "How might weak response create unsafe situations?",
+      "How can lack of inner strength raise accident risk?"
+    ]
+  },
+"retrogradeMarsIndicator": {
+  "Strong": [
+    "How can strong self-control reduce impulsive mistakes?",
+    "In what way does turning energy inward affect decision-making?",
+    "How might strong discipline lower accident risks?",
+    "How can inner strength balance aggressive impulses?",
+    "In what way does deep reflection guide safer choices?",
+    "How might strong patience prevent sudden harm?",
+    "How can strong focus redirect stress positively?",
+    "In what way does strong restraint shape conflict handling?",
+    "How might powerful control of anger create safety?",
+    "How can inner discipline reduce risky behavior?"
+  ],
+  "Moderate": [
+    "How can moderate self-control balance reactions under stress?",
+    "In what way does fair inward focus shape choices?",
+    "How might average discipline affect accident risk?",
+    "How can steady but moderate patience reduce mistakes?",
+    "In what way does balanced restraint guide daily safety?",
+    "How might fair reflection affect responses to challenges?",
+    "How can moderate focus improve stress handling?",
+    "In what way does fair self-discipline shape behavior?",
+    "How might moderate control of anger reduce harm?",
+    "How can fair patience support safer outcomes?"
+  ],
+  "Weak": [
+    "How can weak self-control increase accident chances?",
+    "In what way does misdirected energy create confusion?",
+    "How might poor discipline lead to unsafe actions?",
+    "How can weak patience raise stress levels?",
+    "In what way does lack of restraint cause sudden harm?",
+    "How might scattered focus increase mistakes?",
+    "How can weak anger control heighten accident risks?",
+    "In what way does poor reflection affect choices?",
+    "How might weak self-discipline create unsafe outcomes?",
+    "How can lack of inner control increase danger in stress?"
+  ]
+},
+"saturnLineIrregularity": {
+  "Strong": [
+    "How can strong irregularities affect stability in life?",
+    "In what way do sudden changes create extra stress?",
+    "How might strong breaks increase risk of setbacks?",
+    "How can strong instability disrupt daily routines?",
+    "In what way do sharp irregularities shape accident risks?",
+    "How might strong unpredictability cause repeated stress?",
+    "How can strong breaks reduce security in choices?",
+    "In what way does strong instability affect long-term safety?",
+    "How might sudden disruptions increase confusion and strain?",
+    "How can strong irregularities create higher accident chances?"
+  ],
+  "Moderate": [
+    "How can moderate irregularities affect daily stability?",
+    "In what way do fair breaks shape stress levels?",
+    "How might moderate unpredictability cause occasional setbacks?",
+    "How can average instability affect long-term balance?",
+    "In what way does fair disruption influence accident risk?",
+    "How might moderate irregularity increase daily tension?",
+    "How can fair breaks shape patterns of risk-taking?",
+    "In what way does moderate instability affect safety choices?",
+    "How might occasional disruption increase mistakes?",
+    "How can fair irregularities affect confidence in action?"
+  ],
+  "Weak": [
+    "How can weak irregularities affect life direction?",
+    "In what way does slight unpredictability create low stress?",
+    "How might weak breaks still cause minor setbacks?",
+    "How can weak instability show up in safety concerns?",
+    "In what way do faint disruptions influence daily balance?",
+    "How might weak irregularity raise confusion at times?",
+    "How can small breaks reflect hidden accident risks?",
+    "In what way does weak unpredictability affect patience?",
+    "How might faint irregularities create subtle stress?",
+    "How can weak instability shape choices under pressure?"
+  ]
+}
+    },
+    "Longevity & Aging": {
+"fingerRatios": {
+  "Strong": [
+    "How can strong proportions support a long and steady life?",
+    "In what way do balanced finger ratios enhance vitality?",
+    "How might strong ratios improve resilience with age?",
+    "How can strong harmony shape healthy aging?",
+    "In what way do strong proportions reflect inner balance?",
+    "How might strong ratios influence stamina over time?",
+    "How can strong balance reduce wear in later years?",
+    "In what way do strong ratios add to long-term vitality?",
+    "How might strong proportions protect against decline?",
+    "How can strong finger ratios shape endurance in life?"
+  ],
+  "Moderate": [
+    "How can moderate proportions affect the pace of aging?",
+    "In what way do fair ratios shape steady vitality?",
+    "How might moderate balance influence long-term resilience?",
+    "How can fair proportions guide health through midlife?",
+    "In what way do moderate ratios affect stamina with age?",
+    "How might fair balance shape natural energy cycles?",
+    "How can moderate ratios reflect balance in aging?",
+    "In what way does fair proportion influence overall vitality?",
+    "How might moderate balance reduce stress in later years?",
+    "How can fair finger ratios shape everyday wellness?"
+  ],
+  "Weak": [
+    "How can weak proportions affect life strength?",
+    "In what way do imbalanced ratios shorten vitality?",
+    "How might weak balance increase stress with age?",
+    "How can weak harmony reflect lower resilience?",
+    "In what way do faint ratios shape fragile health?",
+    "How might weak proportions affect aging speed?",
+    "How can weak balance make recovery harder in later life?",
+    "In what way do small imbalances affect vitality levels?",
+    "How might weak ratios bring vulnerability with time?",
+    "How can poor proportions reduce endurance in old age?"
+  ]
+},
+"fingerShape": {
+  "Strong": [
+    "How can strong finger shape reflect resilience in aging?",
+    "In what way does firm shape support long vitality?",
+    "How might strong form enhance physical stamina over years?",
+    "How can solid finger shape show inner balance?",
+    "In what way does strong structure protect against decline?",
+    "How might firm shape indicate steady endurance?",
+    "How can strong fingers reveal life-long stability?",
+    "In what way does bold shape reflect long-term health?",
+    "How might strong shape influence energy in later years?",
+    "How can strong finger form shape lasting strength?"
+  ],
+  "Moderate": [
+    "How can moderate shape guide steady aging?",
+    "In what way does fair finger form reflect balance?",
+    "How might moderate structure support everyday health?",
+    "How can average finger shape show balanced vitality?",
+    "In what way does fair form influence resilience in midlife?",
+    "How might moderate fingers reflect normal endurance?",
+    "How can balanced shape guide health rhythms?",
+    "In what way does fair structure support calm aging?",
+    "How might moderate form indicate stability in later years?",
+    "How can moderate finger shape affect overall wellness?"
+  ],
+  "Weak": [
+    "How can weak finger shape affect life resilience?",
+    "In what way does poor form reflect fragile vitality?",
+    "How might weak structure speed aging?",
+    "How can delicate shape signal lower stamina?",
+    "In what way does faint form influence health decline?",
+    "How might weak finger shape show reduced stability?",
+    "How can fragile structure affect endurance in later years?",
+    "In what way does weak form bring challenges with aging?",
+    "How might poor shape reflect vulnerability in life?",
+    "How can weak finger form reduce long-term strength?"
+  ]
+},
+"handTexture": {
+  "Strong": [
+    "How can firm hand texture reflect vitality in aging?",
+    "In what way does strong texture show resilience over years?",
+    "How might firm tissue quality support long-term health?",
+    "How can strong texture signal inner strength?",
+    "In what way does solid texture reflect endurance?",
+    "How might well-defined texture enhance stability in aging?",
+    "How can strong hand surface show lasting energy?",
+    "In what way does resilient texture protect vitality?",
+    "How might firm texture influence graceful aging?",
+    "How can strong hand texture mark enduring wellness?"
+  ],
+  "Moderate": [
+    "How can moderate texture reflect balance in aging?",
+    "In what way does average hand surface show steady vitality?",
+    "How might fair hand texture guide stable health?",
+    "How can moderate skin quality reveal adaptability?",
+    "In what way does balanced texture influence resilience?",
+    "How might moderate hand surface support normal endurance?",
+    "How can fair texture reflect midlife stability?",
+    "In what way does average texture show calm vitality?",
+    "How might moderate hand texture shape aging gently?",
+    "How can balanced texture guide steady energy flow?"
+  ],
+  "Weak": [
+    "How can weak hand texture signal fragile vitality?",
+    "In what way does poor texture reflect early decline?",
+    "How might weak tissue quality affect aging?",
+    "How can fragile surface show reduced resilience?",
+    "In what way does faint texture reveal instability?",
+    "How might weak hand texture speed health challenges?",
+    "How can poor hand surface reflect low stamina?",
+    "In what way does fragile texture impact endurance?",
+    "How might weak texture mark vulnerability in aging?",
+    "How can faint hand texture show diminished life strength?"
+  ]
+},
+"handShapeElement": {
+  "Strong": [
+    "How can a strong hand shape show vitality through life?",
+    "In what way does firm elemental balance support resilience?",
+    "How might powerful hand form reflect inner strength?",
+    "How can strong structure reveal steady energy in aging?",
+    "In what way does a dominant hand shape show life force?",
+    "How might solid elemental traits support healthy aging?",
+    "How can strong hand form symbolize endurance?",
+    "In what way does balanced hand shape signal stability?",
+    "How might firm structure shape long-term vitality?",
+    "How can strong elemental traits enhance graceful aging?"
+  ],
+  "Moderate": [
+    "How can a moderate hand shape show balanced energy?",
+    "In what way does average hand form reflect adaptability?",
+    "How might fair elemental balance support steady health?",
+    "How can moderate hand traits reveal calm resilience?",
+    "In what way does balanced form guide aging smoothly?",
+    "How might average shape show practical endurance?",
+    "How can moderate structure reflect stability in midlife?",
+    "In what way does balanced element support steady growth?",
+    "How might moderate hand form influence vitality gently?",
+    "How can fair elemental traits show grounded health?"
+  ],
+  "Weak": [
+    "How can weak hand shape reflect fragile vitality?",
+    "In what way does poor elemental balance show instability?",
+    "How might weak form reduce resilience with age?",
+    "How can faint structure reveal vulnerable health?",
+    "In what way does unbalanced hand shape show decline?",
+    "How might weak hand traits affect energy flow?",
+    "How can fragile form signal difficulty in endurance?",
+    "In what way does poor hand shape impact stability?",
+    "How might weak elemental traits mark aging challenges?",
+    "How can faint structure show diminishing vitality?"
+  ]
+}
+    },
+    "Personality & Lifestyle": {
+"mountsStrength jupiter": {
+  "Strong": [
+    "How can strong ambition shape a person's future?",
+    "In what way does confidence influence daily decisions?",
+    "How might strong willpower guide personal success?",
+    "How can determination affect career growth?",
+    "In what way does leadership reflect in everyday life?",
+    "How might drive shape long-term achievements?",
+    "How can self-assurance impact relationships?",
+    "In what way does ambition fuel personal progress?",
+    "How might inner strength influence lifestyle choices?",
+    "How can confidence shape life direction?"
+  ],
+  "Moderate": [
+    "How can balanced ambition support steady progress?",
+    "In what way does moderate confidence affect choices?",
+    "How might steady determination guide practical goals?",
+    "How can balanced authority shape interactions?",
+    "In what way does fair ambition influence habits?",
+    "How might steady effort help in daily life?",
+    "How can balanced drive lead to adaptability?",
+    "In what way does average confidence affect growth?",
+    "How might measured self-assurance shape decisions?",
+    "How can steady ambition reflect in personal development?"
+  ],
+  "Weak": [
+    "How can low ambition affect a person’s lifestyle?",
+    "In what way does lack of confidence shape decisions?",
+    "How might weak determination limit progress?",
+    "How can faint leadership affect personal growth?",
+    "In what way does low drive impact relationships?",
+    "How might hesitation hold back career goals?",
+    "How can weak willpower show in daily habits?",
+    "In what way does poor self-assurance reduce influence?",
+    "How might lack of confidence affect choices?",
+    "How can low ambition shape overall direction in life?"
+  ]
+},
+"mountsStrength venus": {
+  "Strong": [
+    "How can strong affection shape close relationships?",
+    "In what way does warmth influence daily life?",
+    "How might deep emotions guide personal choices?",
+    "How can compassion affect family bonds?",
+    "In what way does passion bring joy to living?",
+    "How might strong love for others shape lifestyle?",
+    "How can generosity influence friendships?",
+    "In what way does emotional depth strengthen trust?",
+    "How might warmth of heart affect personal growth?",
+    "How can strong caring nature guide happiness?"
+  ],
+  "Moderate": [
+    "How can balanced affection support relationships?",
+    "In what way does steady warmth influence choices?",
+    "How might moderate emotions guide personal life?",
+    "How can fair compassion affect interactions?",
+    "In what way does measured passion bring stability?",
+    "How might moderate love shape family life?",
+    "How can balanced generosity influence habits?",
+    "In what way does fair caring nature build harmony?",
+    "How might average warmth support friendships?",
+    "How can steady emotions shape lifestyle?"
+  ],
+  "Weak": [
+    "How can low affection affect relationships?",
+    "In what way does lack of warmth shape interactions?",
+    "How might weak emotions limit personal bonds?",
+    "How can faint compassion influence choices?",
+    "In what way does low passion reduce joy in life?",
+    "How might lack of caring affect friendships?",
+    "How can poor emotional depth weaken trust?",
+    "In what way does limited affection affect family ties?",
+    "How might weak warmth shape lifestyle habits?",
+    "How can low generosity affect happiness?"
+  ]
+},
+"mountsStrength saturn": {
+  "Strong": [
+    "How can strong discipline shape daily life?",
+    "In what way does patience guide personal growth?",
+    "How might responsibility influence lifestyle choices?",
+    "How can stability bring success over time?",
+    "In what way does determination support long-term goals?",
+    "How might reliability affect relationships?",
+    "How can serious focus guide career paths?",
+    "In what way does strong self-control shape habits?",
+    "How might steady discipline improve resilience?",
+    "How can structure in life build confidence?"
+  ],
+  "Moderate": [
+    "How can balanced discipline support daily habits?",
+    "In what way does steady patience guide progress?",
+    "How might moderate responsibility shape choices?",
+    "How can fair stability bring harmony in life?",
+    "In what way does measured determination affect goals?",
+    "How might average reliability influence others?",
+    "How can balanced focus guide personal routines?",
+    "In what way does fair self-control support growth?",
+    "How might steady habits shape lifestyle balance?",
+    "How can moderate structure guide personal success?"
+  ],
+  "Weak": [
+    "How can lack of discipline affect daily routines?",
+    "In what way does poor patience limit progress?",
+    "How might weak responsibility create challenges?",
+    "How can unstable habits affect lifestyle?",
+    "In what way does low determination weaken goals?",
+    "How might unreliability strain relationships?",
+    "How can lack of focus reduce opportunities?",
+    "In what way does weak self-control affect choices?",
+    "How might poor discipline shape future outcomes?",
+    "How can low structure bring uncertainty in life?"
+  ]
+},
+"fingerPhalanges thumb": {
+  "Strong": [
+    "How can strong willpower shape life direction?",
+    "In what way does firm decision-making guide success?",
+    "How might clear logic improve daily choices?",
+    "How can determination influence personal growth?",
+    "In what way does strong control affect relationships?",
+    "How might focused thinking support long-term goals?",
+    "How can confidence in choices bring stability?",
+    "In what way does strong reasoning build resilience?",
+    "How might steady judgment improve opportunities?",
+    "How can strong will shape a person’s lifestyle?"
+  ],
+  "Moderate": [
+    "How can balanced willpower guide daily routines?",
+    "In what way does fair decision-making support growth?",
+    "How might moderate logic shape problem-solving?",
+    "How can steady determination influence goals?",
+    "In what way does balanced control affect habits?",
+    "How might fair reasoning support relationships?",
+    "How can average confidence guide personal choices?",
+    "In what way does moderate judgment affect progress?",
+    "How might fair willpower shape life balance?",
+    "How can steady logic bring practical success?"
+  ],
+  "Weak": [
+    "How can weak willpower affect personal growth?",
+    "In what way does poor decision-making create struggles?",
+    "How might lack of logic cause difficulties in life?",
+    "How can low determination weaken progress?",
+    "In what way does weak control affect daily habits?",
+    "How might poor reasoning limit opportunities?",
+    "How can lack of confidence shape relationships?",
+    "In what way does weak judgment reduce stability?",
+    "How might low willpower affect long-term goals?",
+    "How can poor focus shape a person’s lifestyle?"
+  ]
+},
+"fingerPhalanges index": {
+  "Strong": [
+    "How can strong ambition shape a person’s goals?",
+    "In what way does firm authority influence relationships?",
+    "How might strong leadership guide career choices?",
+    "How can confidence in self-expression build success?",
+    "In what way does strong drive affect daily habits?",
+    "How might clear direction inspire others?",
+    "How can strong ambition improve opportunities?",
+    "In what way does firm self-belief shape progress?",
+    "How might strong decision-making create influence?",
+    "How can powerful leadership shape life direction?"
+  ],
+  "Moderate": [
+    "How can balanced ambition guide steady growth?",
+    "In what way does fair authority support teamwork?",
+    "How might moderate leadership shape personal choices?",
+    "How can steady confidence affect relationships?",
+    "In what way does balanced drive shape career goals?",
+    "How might fair decision-making create stability?",
+    "How can average self-belief influence progress?",
+    "In what way does moderate ambition guide opportunities?",
+    "How might steady expression improve daily life?",
+    "How can balanced leadership support personal growth?"
+  ],
+  "Weak": [
+    "How can weak ambition affect life direction?",
+    "In what way does lack of authority impact choices?",
+    "How might poor leadership reduce opportunities?",
+    "How can weak confidence affect relationships?",
+    "In what way does low drive limit progress?",
+    "How might poor decision-making cause struggles?",
+    "How can lack of self-belief shape personal growth?",
+    "In what way does weak ambition create hesitation?",
+    "How might low authority affect teamwork?",
+    "How can weak expression reduce influence in life?"
+  ]
+},
+"fingerPhalanges middle": {
+  "Strong": [
+    "How can strong discipline shape long-term goals?",
+    "In what way does firm responsibility affect daily habits?",
+    "How might strong self-control build stability in life?",
+    "How can solid structure support success?",
+    "In what way does strong focus improve decisions?",
+    "How might firm responsibility guide relationships?",
+    "How can strong order bring balance to personal growth?",
+    "In what way does discipline support steady progress?",
+    "How might strong structure reduce uncertainty?",
+    "How can self-control create a stable lifestyle?"
+  ],
+  "Moderate": [
+    "How can moderate discipline guide steady progress?",
+    "In what way does fair responsibility shape choices?",
+    "How might balanced self-control affect personal growth?",
+    "How can moderate structure support daily routines?",
+    "In what way does average focus guide stability?",
+    "How might balanced responsibility shape success?",
+    "How can fair order bring calm to life?",
+    "In what way does moderate discipline support relationships?",
+    "How might balanced structure help decision-making?",
+    "How can steady responsibility guide long-term goals?"
+  ],
+  "Weak": [
+    "How can weak discipline limit progress?",
+    "In what way does poor responsibility affect stability?",
+    "How might lack of self-control create challenges?",
+    "How can weak structure lead to uncertainty?",
+    "In what way does low focus harm daily routines?",
+    "How might poor responsibility affect relationships?",
+    "How can weak order reduce personal growth?",
+    "In what way does lack of discipline shape decisions?",
+    "How might weak control increase struggles?",
+    "How can poor structure hold back success?"
+  ]
+},
+"fingerPhalanges ring": {
+  "Strong": [
+    "How can strong creativity shape personal fulfillment?",
+    "In what way does self-expression bring joy to life?",
+    "How might strong artistic sense influence relationships?",
+    "How can love for recognition guide career paths?",
+    "In what way does strong imagination support growth?",
+    "How might vibrant self-expression impact daily living?",
+    "How can strong creativity inspire others?",
+    "In what way does passion for recognition shape choices?",
+    "How might artistic drive support life direction?",
+    "How can strong expression create happiness?"
+  ],
+  "Moderate": [
+    "How can moderate creativity guide balanced growth?",
+    "In what way does fair self-expression affect daily choices?",
+    "How might balanced artistry support personal joy?",
+    "How can moderate recognition shape relationships?",
+    "In what way does fair imagination guide success?",
+    "How might steady expression bring fulfillment?",
+    "How can moderate creativity support lifestyle balance?",
+    "In what way does average recognition affect confidence?",
+    "How might balanced artistry help self-growth?",
+    "How can fair expression create steady happiness?"
+  ],
+  "Weak": [
+    "How can weak creativity limit personal joy?",
+    "In what way does poor expression reduce fulfillment?",
+    "How might lack of artistry affect relationships?",
+    "How can weak recognition create insecurity?",
+    "In what way does low imagination restrict growth?",
+    "How might weak expression affect life satisfaction?",
+    "How can poor creativity reduce opportunities?",
+    "In what way does lack of expression harm confidence?",
+    "How might weak artistry limit progress?",
+    "How can low creative drive affect happiness?"
+  ]
+},
+"fingerPhalanges little": {
+  "Strong": [
+    "How can strong communication build lasting connections?",
+    "In what way does persuasive ability guide success?",
+    "How might adaptability support strong relationships?",
+    "How can trust in expression bring opportunities?",
+    "In what way does strong social sense create influence?",
+    "How might confident speech shape career direction?",
+    "How can strong adaptability ease challenges?",
+    "In what way does fluent expression inspire others?",
+    "How might persuasive communication open doors?",
+    "How can strong social awareness build harmony?"
+  ],
+  "Moderate": [
+    "How can moderate communication maintain steady bonds?",
+    "In what way does fair persuasion guide growth?",
+    "How might average adaptability balance relationships?",
+    "How can moderate trust in expression affect choices?",
+    "In what way does balanced social sense support teamwork?",
+    "How might fair expression guide personal development?",
+    "How can steady communication help resolve conflict?",
+    "In what way does moderate adaptability shape decisions?",
+    "How might fair persuasion aid opportunities?",
+    "How can average social awareness maintain harmony?"
+  ],
+  "Weak": [
+    "How can weak communication cause misunderstandings?",
+    "In what way does poor persuasion limit success?",
+    "How might low adaptability strain relationships?",
+    "How can weak trust in expression block growth?",
+    "In what way does poor social sense affect teamwork?",
+    "How might weak speech create missed opportunities?",
+    "How can low adaptability hinder problem-solving?",
+    "In what way does lack of expression reduce influence?",
+    "How might weak persuasion affect progress?",
+    "How can poor social awareness cause imbalance?"
+  ]
+}
+    }
+  }
+}
